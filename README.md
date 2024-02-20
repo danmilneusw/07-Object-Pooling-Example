@@ -1,5 +1,4 @@
 # 07-Object-Pooling-Example
-An example of object pooling
+Video Demo:
 
-
-<video src="https://github.com/danmilneusw/07-Object-Pooling-Example/blob/main/Object%20Pooling%20Demo.mp4"/>
+https://github.com/danmilneusw/07-Object-Pooling-Example/assets/155658788/538872fd-6381-4647-840d-6d26dbfa686b
